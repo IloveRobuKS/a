@@ -2,3 +2,7 @@
 .mainCard__8a660{background-color: var(--forums-buttons-color);}
 .theme-dark .container__99b06.isOpen__8593d{background-color: var(--forums-buttons-open-color);}
 .container__99b06:hover{background-color: var(--forums-buttons-hover-color);}
+.root_a28985{background-color: var(--pop-up-top-color);}
+.footer__89240{background-color: var(--pop-up-bottom-color);}
+.lookFilled__19298.colorBrand_b2253e{background-color: var(--pop-up-button-color);}
+.lookFilled__19298.colorBrand_b2253e:hover{background-color: var(--pop-up-button-hover-color);}
