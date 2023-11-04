@@ -18,3 +18,9 @@
 .colorDefault__0b482:active:not(.hideInteraction__2790e){background-color: var(--selectionmenu-holding-background-color);}
 .message__80c10.selected_fd9051, .mouse-mode.full-motion .message__80c10:hover{background-color: var(--message-hover-background-color);}
 .message__80c10.mentioned__58017.selected_fd9051, .mouse-mode.full-motion .mentioned__58017:hover{background-color: var(--mention-hover-color);}
+.container__23c08{background-color: var(--inbox-background-color);}
+.container__2c498{background-color: var(--inbox-background-color2);}
+.messages_f7999e{background-color: var(--inbox-background-messagecolor);}
+.channelHeader__5d30c{background-color: var(--inbox-background-color3);}
+.container__20de0{background-color: var(--inbox-background-color2);}
+.messageContainer_aa7d14{margin-top:5px; background-color: var(--inbox-background-messagecolor);}
