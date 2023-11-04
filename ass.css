@@ -7,6 +7,7 @@
 .lookFilled__19298.colorBrand_b2253e{background-color: var(--pop-up-button-color);}
 .lookFilled__19298.colorBrand_b2253e:hover{background-color: var(--pop-up-button-hover-color);}
 .linkCalloutContainer__8ff6e{border: var(--pop-up-link-border-size) var(--pop-up-link-border-type) var(--pop-up-link-border-color);background-color: var(--pop-up-link-border-background-color);}
+.theme-dark .message__04d9f{background-color: var(--pop-up-message-background-color);}
 .messagesPopoutWrap_b3b384{background-color: var(--pins-background-color);}
 .header_f5cc88{background-color: var(--pins-header-background-color);}
 .footer_a3029c{background-color: var(--pins-footer-background-color);}
