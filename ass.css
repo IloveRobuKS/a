@@ -29,3 +29,7 @@
 .list__19127{background-color: var(--threads-backgroundcolor);background-image: var(--threads-backgroundimage);background-size: var(--threads-backgroundsize);background-repeat: no-repeat;}
 .icon__588c6{background-color: var(--threads-icon-backgroundcolor);}
 .container__6604b{background-color: var(--threads-message-backgroundcolor);}
+.theme-dark .pageWrapper_fef757{background-color: var(--discovery-backgroundcolor);}
+.sidebar_ded4b5{background-color: var(--discovery-sidebar-backgroundcolor);}
+.theme-dark .card__86773, .theme-dark .iconMask__1aff7{background-color: var(--discovery-card-backgroundcolor);}
+.theme-dark .card__86773:hover, .theme-dark .iconMask__1aff7:hover{background-color: var(--discovery-card-hover-backgroundcolor);}
