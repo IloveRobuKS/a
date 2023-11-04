@@ -6,3 +6,4 @@
 .footer__89240{background-color: var(--pop-up-bottom-color);background-image: var(--pop-up-bottom-image);background-size: var(--pop-up-bottom-image-size);}
 .lookFilled__19298.colorBrand_b2253e{background-color: var(--pop-up-button-color);}
 .lookFilled__19298.colorBrand_b2253e:hover{background-color: var(--pop-up-button-hover-color);}
+.linkCalloutContainer__8ff6e{border: var(--pop-up-link-border-size) var(--pop-up-link-border-type) var(--pop-up-link-border-color);background-color: var(--pop-up-link-border-background-color);}
