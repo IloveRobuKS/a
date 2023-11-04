@@ -13,3 +13,6 @@
 .footer_a3029c{background-color: var(--pins-footer-background-color);}
 .messageGroupWrapper_f8c6e9{background-color: var(--pins-messages-background-color);}
 .jumpButton__0329d{background-color: var(--pins-jumpbutton-background-color);}
+.menu_dc52c6{background-color: var(--selectionmenu-background-color);}
+.colorDefault__0b482.focused__27621{background-color: var(--selectionmenu-focused-background-color);}
+.colorDefault__0b482:active:not(.hideInteraction__2790e){background-color: var(--selectionmenu-holding-background-color);}
