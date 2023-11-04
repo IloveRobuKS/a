@@ -24,3 +24,7 @@
 .channelHeader__5d30c{background-color: var(--inbox-background-color3);}
 .container__20de0{background-color: var(--inbox-background-color2);}
 .messageContainer_aa7d14{margin-top:5px; background-color: var(--inbox-background-messagecolor);}
+.header__53b07{background-color: var(--threads-header-backgroundcolor);}
+.searchBox_ff53b2{background-color: var(--threads-searchbox-backgroundcolor);}
+.list__19127{background-color: var(--threads-backgroundcolor);background-image: var(--threads-backgroundimage);background-size: var(--threads-backgroundsize);background-repeat: no-repeat;}
+.icon__588c6{background-color: var(--threads-icon-backgroundcolor);}
